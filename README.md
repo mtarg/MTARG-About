@@ -1,29 +1,18 @@
-# 🚀 MTARG
+<!-- FOUNDER SECTION START -->
+<br />
 
-An advanced and innovative project developed for **MTARG** to deliver seamless performance and dynamic user experiences.
+## 👑 Founder & Leadership
 
----
+<div align="center">
 
-## 📌 Project Overview
+| 🏷️ Role | 👤 Name | 🌐 Contact / Profiles |
+| :--- | :--- | :--- |
+| **Founder & Owner** | **RoYaL PuTo** | [![Discord](https://img.shields.io/badge/Discord-MTARG-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) |
 
-**MTARG** is designed to provide cutting-edge solutions tailored to modern technological needs. This repository contains the core codebase, documentation, and resources required to build and deploy the application.
+<br />
 
----
+> **MTARG** is founded and maintained under the visionary leadership of **RoYaL PuTo**.
+</div>
 
-## 🛠️ Tech Stack
-
-* **Frontend:** [e.g., React / HTML & CSS / Next.js]
-* **Backend:** [e.g., Node.js / Python / PHP]
-* **Database:** [e.g., MongoDB / MySQL / PostgreSQL]
-* **Tools & Hosting:** Git, GitHub, [e.g., Vercel / AWS]
-
----
-
-## 🚀 Quick Start & Installation
-
-Clone the repository and run the project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/mtarg.git](https://github.com/your-username/mtarg.git)
-   cd mtarg
+<br />
+<!-- FOUNDER SECTION END -->
